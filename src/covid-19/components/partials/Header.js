@@ -6,7 +6,7 @@ const HeaderComponent = () => {
   return (
     <Header>
       <div className="my-header">
-        <h1 style={{color: 'white', textAlign:'center'}}>Thong tin dich benh covid 19</h1>
+        <h1 style={{color: 'white', textAlign:'center'}}>Thông tin dich bệnh covid 19</h1>
       </div>
     </Header>
   )
